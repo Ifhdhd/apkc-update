@@ -1,1 +1,25 @@
+{
+  "packages": {
+    "io.silvrr.collecto01": {"versionCode": 201, "versionName": "279", "apkUrl": "https://raw.githubusercontent.com/Ifhdhd/apkc-update/main/apk/io.silvrr.collecto01.apk"},
+    "io.silvrr.collecto02": {"versionCode": 201, "versionName": "279", "apkUrl": "https://raw.githubusercontent.com/Ifhdhd/apkc-update/main/apk/io.silvrr.collecto02.apk"},
+    "io.silvrr.collecto03": {"versionCode": 201, "versionName": "279", "apkUrl": "https://raw.githubusercontent.com/Ifhdhd/apkc-update/main/apk/io.silvrr.collecto03.apk"},
+    "io.silvrr.collecto04": {"versionCode": 201, "versionName": "279", "apkUrl": "https://raw.githubusercontent.com/Ifhdhd/apkc-update/main/apk/io.silvrr.collecto04.apk"},
+    "io.silvrr.collecto05": {"versionCode": 201, "versionName": "279", "apkUrl": "https://raw.githubusercontent.com/Ifhdhd/apkc-update/main/apk/io.silvrr.collecto05.apk"},
+    "io.silvrr.collecto06": {"versionCode": 201, "versionName": "279", "apkUrl": "https://raw.githubusercontent.com/Ifhdhd/apkc-update/main/apk/io.silvrr.collecto06.apk"},
 
+    "io.silvrr.collecto07": {"versionCode": 201, "versionName": "295", "apkUrl": "https://raw.githubusercontent.com/Ifhdhd/apkc-update/main/apk/io.silvrr.collecto07.apk"},
+    "io.silvrr.collecto08": {"versionCode": 201, "versionName": "295", "apkUrl": "https://raw.githubusercontent.com/Ifhdhd/apkc-update/main/apk/io.silvrr.collecto08.apk"},
+    "io.silvrr.collecto09": {"versionCode": 201, "versionName": "295", "apkUrl": "https://raw.githubusercontent.com/Ifhdhd/apkc-update/main/apk/io.silvrr.collecto09.apk"},
+    "io.silvrr.collecto10": {"versionCode": 201, "versionName": "295", "apkUrl": "https://raw.githubusercontent.com/Ifhdhd/apkc-update/main/apk/io.silvrr.collecto10.apk"},
+    "io.silvrr.collecto11": {"versionCode": 201, "versionName": "295", "apkUrl": "https://raw.githubusercontent.com/Ifhdhd/apkc-update/main/apk/io.silvrr.collecto11.apk"},
+    "io.silvrr.collecto12": {"versionCode": 201, "versionName": "295", "apkUrl": "https://raw.githubusercontent.com/Ifhdhd/apkc-update/main/apk/io.silvrr.collecto12.apk"},
+
+    "io.silvrr.collectors.a01": {"versionCode": 201, "versionName": "289", "apkUrl": "https://raw.githubusercontent.com/Ifhdhd/apkc-update/main/apk/io.silvrr.collectors.a01.apk"},
+    "io.silvrr.collectors.a02": {"versionCode": 201, "versionName": "289", "apkUrl": "https://raw.githubusercontent.com/Ifhdhd/apkc-update/main/apk/io.silvrr.collectors.a02.apk"},
+    "io.silvrr.collectors.a03": {"versionCode": 201, "versionName": "289", "apkUrl": "https://raw.githubusercontent.com/Ifhdhd/apkc-update/main/apk/io.silvrr.collectors.a03.apk"},
+
+    "io.silvrr.collectors.a04": {"versionCode": 201, "versionName": "295", "apkUrl": "https://raw.githubusercontent.com/Ifhdhd/apkc-update/main/apk/io.silvrr.collectors.a04.apk"},
+    "io.silvrr.collectors.a05": {"versionCode": 201, "versionName": "295", "apkUrl": "https://raw.githubusercontent.com/Ifhdhd/apkc-update/main/apk/io.silvrr.collectors.a05.apk"},
+    "io.silvrr.collectors.a06": {"versionCode": 201, "versionName": "295", "apkUrl": "https://raw.githubusercontent.com/Ifhdhd/apkc-update/main/apk/io.silvrr.collectors.a06.apk"}
+  }
+}
